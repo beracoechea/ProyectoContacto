@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1652648278 source:e:\programas cucei\seminario estructura\proyect contact\proyect contact\contact.cpp
+	"contact.hpp"
+
+1652634252 e:\programas cucei\seminario estructura\proyect contact\proyect contact\contact.hpp
+	<iostream>
+	<string>
+
+1653071786 source:e:\programas cucei\seminario estructura\proyect contact\proyect contact\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<chrono>
+	<sys/time.h>
+	<ctime>
+	"ARB.hpp"
+	"contact.hpp"
+	"lista enlazada.hpp"
+	"llamadas.hpp"
+
+1652650962 e:\programas cucei\seminario estructura\proyect contact\proyect contact\arb.hpp
+	<exception>
+	<string>
+	<iostream>
+
+1653070782 e:\programas cucei\seminario estructura\proyect contact\proyect contact\lista enlazada.hpp
+	<iostream>
+	<string>
+	"nodos.h"
+
+1653071764 source:e:\programas cucei\seminario estructura\proyect contact\proyect contact\llamadas.cpp
+	"llamadas.hpp"
+
+1653069816 e:\programas cucei\seminario estructura\proyect contact\proyect contact\llamadas.hpp
+	<iostream>
+	<string>
+
+1653070702 e:\programas cucei\seminario estructura\proyect contact\proyect contact\nodos.h
+	"llamadas.hpp"
+
+1653247220 source:e:\programas cucei\seminario estructura\proyect contact\contact.cpp
+	"contact.hpp"
+
+1685731674 e:\programas cucei\seminario estructura\proyect contact\contact.hpp
+	<iostream>
+	<string>
+
+1685742510 source:e:\programas cucei\seminario estructura\proyect contact\llamadas.cpp
+	"Llamadas.hpp"
+
+1685742550 e:\programas cucei\seminario estructura\proyect contact\llamadas.hpp
+	<iostream>
+	<string>
+
+1685910092 source:e:\programas cucei\seminario estructura\proyect contact\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<sys/time.h>
+	<ctime>
+	<fstream>
+	<ostream>
+	"ARB.hpp"
+	"contact.hpp"
+	"lista enlazada.hpp"
+
+1685909918 e:\programas cucei\seminario estructura\proyect contact\arb.hpp
+	<exception>
+	<string>
+	<iostream>
+	<fstream>
+	<ostream>
+	"contact.hpp"
+
+1685910128 e:\programas cucei\seminario estructura\proyect contact\lista enlazada.hpp
+	<iostream>
+	<string>
+	"nodos.h"
+
+1685740622 e:\programas cucei\seminario estructura\proyect contact\nodos.h
+	"Llamadas.hpp"
+
+1653243620 source:d:\programas cucei\seminario estructura\proyect contact\contact.cpp
+	"contact.hpp"
+
+1652634252 d:\programas cucei\seminario estructura\proyect contact\contact.hpp
+	<iostream>
+	<string>
+
+1653071764 source:d:\programas cucei\seminario estructura\proyect contact\llamadas.cpp
+	"llamadas.hpp"
+
+1653069816 d:\programas cucei\seminario estructura\proyect contact\llamadas.hpp
+	<iostream>
+	<string>
+
+1653409588 source:d:\programas cucei\seminario estructura\proyect contact\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<sys/time.h>
+	<ctime>
+	<fstream>
+	"ARB.hpp"
+	"contact.hpp"
+	"lista enlazada.hpp"
+	"llamadas.hpp"
+
+1653235298 d:\programas cucei\seminario estructura\proyect contact\arb.hpp
+	<exception>
+	<string>
+	<iostream>
+	<fstream>
+
+1653070782 d:\programas cucei\seminario estructura\proyect contact\lista enlazada.hpp
+	<iostream>
+	<string>
+	"nodos.h"
+
+1653070702 d:\programas cucei\seminario estructura\proyect contact\nodos.h
+	"llamadas.hpp"
+

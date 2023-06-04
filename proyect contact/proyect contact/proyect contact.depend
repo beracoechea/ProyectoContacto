@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1652637852 source:e:\programas cucei\seminario estructura\proyect contact\proyect contact\contact.cpp
+	"contact.hpp"
+
+1652637852 e:\programas cucei\seminario estructura\proyect contact\proyect contact\contact.hpp
+	<iostream>
+	<string>
+
+1652643564 source:e:\programas cucei\seminario estructura\proyect contact\proyect contact\main.cpp
+	<iostream>
+	<string>
+	"ARB.hpp"
+	"contact.hpp"
+
+1652641970 e:\programas cucei\seminario estructura\proyect contact\proyect contact\arb.hpp
+	<exception>
+	<string>
+	<iostream>
+
